@@ -1,0 +1,9 @@
+D:\Education\4 курс\Имитационное моделирование\FactoryFolder\Factory\Factory\bin\Debug\Factory.exe.config
+D:\Education\4 курс\Имитационное моделирование\FactoryFolder\Factory\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+D:\Education\4 курс\Имитационное моделирование\FactoryFolder\Factory\Factory\obj\Debug\Factory.Form1.resources
+D:\Education\4 курс\Имитационное моделирование\FactoryFolder\Factory\Factory\obj\Debug\Factory.Properties.Resources.resources
+D:\Education\4 курс\Имитационное моделирование\FactoryFolder\Factory\Factory\obj\Debug\Factory.csproj.GenerateResource.Cache
+D:\Education\4 курс\Имитационное моделирование\FactoryFolder\Factory\Factory\bin\Debug\Factory.exe
+D:\Education\4 курс\Имитационное моделирование\FactoryFolder\Factory\Factory\bin\Debug\Factory.pdb
+D:\Education\4 курс\Имитационное моделирование\FactoryFolder\Factory\Factory\obj\Debug\Factory.exe
+D:\Education\4 курс\Имитационное моделирование\FactoryFolder\Factory\Factory\obj\Debug\Factory.pdb
