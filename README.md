@@ -7,3 +7,5 @@ This is simulation model written in C#. Production of wires in this process wher
 <img width="856" src="src/processing.png">
 
 The program allows to simulate the operation of the plant over time, to identify weaknesses and to determine the efficiency of the production units.
+
+<img width="1014" src="src/programm.png">
