@@ -102,7 +102,7 @@ namespace Factory
         }
         public void recive_bid()
         {
-            processing_time = 25 + rand();
+            processing_time = 15 + rand();
             time_count_for_bid = 0;
             status = true;
         }
